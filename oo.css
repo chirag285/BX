@@ -1,0 +1,184 @@
+body {
+            margin: 0%;
+            padding: 0%;
+        }
+        body, p, h1, h2, h3, h4, h5, h6 {
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            margin-top: 100px;
+            padding: 0%;
+        }
+
+        .container div {
+            padding: 0%;
+            margin: 0%;
+        }
+
+        .news {
+            height: 100px;
+            border-bottom: 1px solid#eeeef0;
+        }
+
+        .a-news {
+            height: 70%;
+        }
+
+        .news-date {
+            height: 30%;
+            font-size: 14px;
+            color: #b5aec4;
+            font-family: poppins, sans-serif;
+        }
+
+        .description p {
+            font-size: 16px;
+            line-height: 26px;
+            color: #51545f;
+            font-family: poppins, sans-serif;
+        }
+
+        .description h3 {
+            font-size: 24px;
+            color: #1e1e27;
+            font-family: poppins, sans-serif;
+            font-weight: 500;
+        }
+
+        footer {
+            height: 65%;
+            padding: 0% !important;
+        }
+
+        .top-foot {
+            background: #131627;
+            height: 90%;
+        }
+
+        .tf-1 {
+            height: 100%;
+            float: left;
+        }
+
+        .down-foot {
+            height: 10%;
+            background: #04081d;
+        }
+
+        .f-head {
+            color: #fff;
+            font-family: poppins, sans-serif;
+            font-weight: 600;
+            font-size: 16px;
+            margin: 0;
+            padding: 0;
+            margin-top: 25%;
+            margin-left: 20%;
+            
+        }
+
+        .f-d {
+            font-size: 14px;
+            line-height: 26px;
+            color: #b5aec4;
+            font-weight: 300;
+            font-family: poppins, sans-serif;
+            padding-bottom: 20px;
+            margin-left: 20%;
+        }
+        .f-d ul{
+            list-style: none;
+            margin: 0%;
+            padding: 0%;
+            float: left;
+            margin-left: 12px;
+        }
+        .df-l p
+        {
+            padding-top: 5px;
+        }
+
+        .df-r ul
+        {
+            list-style: none;
+            padding-top: 5px;
+        }
+        .df-r li
+        {
+            display: inline;
+            padding: 10px;
+        }
+        .hddd
+        {
+            margin-top: -62px;
+        }
+
+        footer {
+            height: 65%;
+            padding: 0% !important;
+        }
+
+        .top-foot {
+            background: #131627;
+            height: 90%;
+        }
+
+        .tf-1 {
+            height: 100%;
+            float: left;
+        }
+
+        .down-foot {
+            height: 10%;
+            background: #04081d;
+        }
+
+        .f-head {
+            color: #fff;
+            font-family: poppins, sans-serif;
+            font-weight: 600;
+            font-size: 16px;
+            margin: 0;
+            padding: 0;
+            margin-top: 25%;
+            margin-left: 20%;
+            
+        }
+
+        .f-d {
+            font-size: 14px;
+            line-height: 26px;
+            color: #b5aec4;
+            font-weight: 300;
+            font-family: poppins, sans-serif;
+            padding-bottom: 20px;
+            margin-left: 20%;
+        }
+        .f-d ul{
+            list-style: none;
+            margin: 0%;
+            padding: 0%;
+            float: left;
+            margin-left: 12px;
+        }
+        .df-l p
+        {
+            padding-top: 5px;
+        }
+
+        .df-r ul
+        {
+            list-style: none;
+            padding-top: 5px;
+        }
+        .df-r li
+        {
+            display: inline;
+            padding: 10px;
+        }
+        .hddd
+        {
+            margin-top: -62px;
+        }
